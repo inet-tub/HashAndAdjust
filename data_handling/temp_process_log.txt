@@ -1,0 +1,446 @@
+Temp p: 0
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.25
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.5
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.75
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+analyzing sample: 7
+Found 2594 items that appear in 2 subsequences
+Replacing 1 items
+Picked 1 random items
+Replaced 5 with 77
+Test, sample7 now has 100 items and 3000 requests, replaced 1 items  
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.9
+analyzing sample: 0
+Found 2015 items that appear in 2 subsequences
+Replacing 4 items
+Picked 4 random items
+Replaced 20 with 0
+Replaced 35 with 25
+Replaced 7 with 15
+Replaced 82 with 74
+Test, sample0 now has 100 items and 3000 requests, replaced 4 items  
+analyzing sample: 1
+Found 1862 items that appear in 2 subsequences
+Replacing 4 items
+Picked 4 random items
+Replaced 54 with 30
+Replaced 15 with 31
+Replaced 94 with 0
+Replaced 41 with 76
+Test, sample1 now has 100 items and 3000 requests, replaced 4 items  
+analyzing sample: 2
+Found 1928 items that appear in 2 subsequences
+Replacing 7 items
+Picked 7 random items
+Replaced 85 with 22
+Replaced 42 with 20
+Replaced 90 with 97
+Replaced 69 with 76
+Replaced 2 with 78
+Replaced 75 with 13
+Replaced 1 with 57
+Test, sample2 now has 100 items and 3000 requests, replaced 7 items  
+analyzing sample: 3
+Found 2003 items that appear in 2 subsequences
+Replacing 4 items
+Picked 4 random items
+Replaced 94 with 0
+Replaced 35 with 2
+Replaced 5 with 66
+Replaced 18 with 50
+Test, sample3 now has 100 items and 3000 requests, replaced 4 items  
+analyzing sample: 4
+Found 1958 items that appear in 2 subsequences
+Replacing 13 items
+Picked 13 random items
+Replaced 8 with 3
+Replaced 47 with 77
+Replaced 69 with 18
+Replaced 20 with 46
+Replaced 50 with 58
+Replaced 87 with 4
+Replaced 35 with 89
+Replaced 81 with 82
+Replaced 54 with 0
+Replaced 19 with 93
+Replaced 85 with 9
+Replaced 90 with 53
+Replaced 23 with 65
+Test, sample4 now has 100 items and 3000 requests, replaced 13 items  
+analyzing sample: 5
+Found 2045 items that appear in 2 subsequences
+Replacing 7 items
+Picked 7 random items
+Replaced 4 with 17
+Replaced 87 with 82
+Replaced 64 with 54
+Replaced 98 with 85
+Replaced 28 with 90
+Replaced 7 with 26
+Replaced 38 with 0
+Test, sample5 now has 100 items and 3000 requests, replaced 7 items  
+analyzing sample: 6
+Found 2044 items that appear in 2 subsequences
+Replacing 3 items
+Picked 3 random items
+Replaced 43 with 0
+Replaced 7 with 46
+Replaced 64 with 51
+Test, sample6 now has 100 items and 3000 requests, replaced 3 items  
+analyzing sample: 7
+Found 1995 items that appear in 2 subsequences
+Replacing 3 items
+Picked 3 random items
+Replaced 72 with 0
+Replaced 67 with 62
+Replaced 7 with 88
+Test, sample7 now has 100 items and 3000 requests, replaced 3 items  
+analyzing sample: 8
+Found 2106 items that appear in 2 subsequences
+Replacing 5 items
+Picked 5 random items
+Replaced 38 with 0
+Replaced 2 with 88
+Replaced 69 with 80
+Replaced 56 with 83
+Replaced 20 with 58
+Test, sample8 now has 100 items and 3000 requests, replaced 5 items  
+analyzing sample: 9
+Found 2082 items that appear in 2 subsequences
+Replacing 2 items
+Picked 2 random items
+Replaced 68 with 55
+Replaced 46 with 0
+Test, sample9 now has 100 items and 3000 requests, replaced 2 items  
+Temp p: 0
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.25
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.5
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.75
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.9
+analyzing sample: 0
+Found 1854 items that appear in 2 subsequences
+Replacing 8 items
+Picked 8 random items
+Replaced 93 with 61
+Replaced 35 with 0
+Replaced 25 with 40
+Replaced 90 with 84
+Replaced 81 with 69
+Replaced 88 with 24
+Replaced 23 with 32
+Replaced 98 with 39
+Test, sample0 now has 100 items and 3000 requests, replaced 8 items  
+analyzing sample: 1
+Found 1941 items that appear in 2 subsequences
+Replacing 6 items
+Picked 6 random items
+Replaced 1 with 0
+Replaced 16 with 18
+Replaced 81 with 43
+Replaced 25 with 50
+Replaced 29 with 98
+Replaced 11 with 10
+Test, sample1 now has 100 items and 3000 requests, replaced 6 items  
+analyzing sample: 2
+Found 2038 items that appear in 2 subsequences
+Replacing 7 items
+Picked 7 random items
+Replaced 22 with 69
+Replaced 70 with 40
+Replaced 45 with 14
+Replaced 11 with 74
+Replaced 46 with 52
+Replaced 33 with 0
+Replaced 41 with 5
+Test, sample2 now has 100 items and 3000 requests, replaced 7 items  
+analyzing sample: 3
+Found 2096 items that appear in 2 subsequences
+Replacing 3 items
+Picked 3 random items
+Replaced 79 with 87
+Replaced 98 with 93
+Replaced 90 with 37
+Test, sample3 now has 100 items and 3000 requests, replaced 3 items  
+analyzing sample: 4
+Found 1972 items that appear in 2 subsequences
+Replacing 7 items
+Picked 7 random items
+Replaced 10 with 0
+Replaced 1 with 29
+Replaced 99 with 74
+Replaced 81 with 80
+Replaced 26 with 11
+Replaced 3 with 30
+Replaced 39 with 14
+Test, sample4 now has 100 items and 3000 requests, replaced 7 items  
+analyzing sample: 5
+Found 2102 items that appear in 2 subsequences
+Replacing 3 items
+Picked 3 random items
+Replaced 3 with 61
+Replaced 64 with 0
+Replaced 39 with 95
+Test, sample5 now has 100 items and 3000 requests, replaced 3 items  
+analyzing sample: 6
+Found 2018 items that appear in 2 subsequences
+Replacing 6 items
+Picked 6 random items
+Replaced 65 with 34
+Replaced 53 with 60
+Replaced 25 with 0
+Replaced 48 with 97
+Replaced 10 with 90
+Replaced 44 with 18
+Test, sample6 now has 100 items and 3000 requests, replaced 6 items  
+analyzing sample: 7
+Found 1832 items that appear in 2 subsequences
+Replacing 5 items
+Picked 5 random items
+Replaced 74 with 93
+Replaced 36 with 99
+Replaced 87 with 33
+Replaced 90 with 0
+Replaced 96 with 7
+Test, sample7 now has 100 items and 3000 requests, replaced 5 items  
+analyzing sample: 8
+Found 2053 items that appear in 2 subsequences
+Replacing 4 items
+Picked 4 random items
+Replaced 19 with 30
+Replaced 49 with 0
+Replaced 13 with 58
+Replaced 73 with 15
+Test, sample8 now has 100 items and 3000 requests, replaced 4 items  
+analyzing sample: 9
+Found 2076 items that appear in 2 subsequences
+Replacing 6 items
+Picked 6 random items
+Replaced 24 with 99
+Replaced 23 with 26
+Replaced 81 with 43
+Replaced 1 with 70
+Replaced 78 with 12
+Replaced 36 with 0
+Test, sample9 now has 100 items and 3000 requests, replaced 6 items  
+Temp p: 0
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.25
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.5
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.75
+Sample 0 has all needed hosts! 
+Sample 1 has all needed hosts! 
+Sample 2 has all needed hosts! 
+Sample 3 has all needed hosts! 
+Sample 4 has all needed hosts! 
+Sample 5 has all needed hosts! 
+Sample 6 has all needed hosts! 
+Sample 7 has all needed hosts! 
+Sample 8 has all needed hosts! 
+Sample 9 has all needed hosts! 
+Temp p: 0.9
+analyzing sample: 0
+Found 2052 items that appear in 2 subsequences
+Replacing 5 items
+Picked 5 random items
+Replaced 39 with 8
+Replaced 95 with 0
+Replaced 91 with 46
+Replaced 6 with 50
+Replaced 94 with 33
+Test, sample0 now has 100 items and 3000 requests, replaced 5 items  
+analyzing sample: 1
+Found 2006 items that appear in 2 subsequences
+Replacing 4 items
+Picked 4 random items
+Replaced 33 with 72
+Replaced 60 with 5
+Replaced 78 with 0
+Replaced 56 with 41
+Test, sample1 now has 100 items and 3000 requests, replaced 4 items  
+analyzing sample: 2
+Found 2124 items that appear in 2 subsequences
+Replacing 5 items
+Picked 5 random items
+Replaced 75 with 26
+Replaced 84 with 62
+Replaced 73 with 89
+Replaced 95 with 55
+Replaced 49 with 0
+Test, sample2 now has 100 items and 3000 requests, replaced 5 items  
+analyzing sample: 3
+Found 1954 items that appear in 2 subsequences
+Replacing 7 items
+Picked 7 random items
+Replaced 26 with 95
+Replaced 2 with 23
+Replaced 33 with 0
+Replaced 51 with 91
+Replaced 52 with 35
+Replaced 42 with 39
+Replaced 78 with 69
+Test, sample3 now has 100 items and 3000 requests, replaced 7 items  
+analyzing sample: 4
+Found 2014 items that appear in 2 subsequences
+Replacing 6 items
+Picked 6 random items
+Replaced 60 with 2
+Replaced 18 with 42
+Replaced 51 with 76
+Replaced 19 with 40
+Replaced 5 with 0
+Replaced 21 with 100
+Test, sample4 now has 100 items and 3000 requests, replaced 6 items  
+analyzing sample: 5
+Found 2122 items that appear in 2 subsequences
+Replacing 6 items
+Picked 6 random items
+Replaced 66 with 17
+Replaced 51 with 15
+Replaced 72 with 58
+Replaced 90 with 92
+Replaced 41 with 0
+Replaced 68 with 56
+Test, sample5 now has 100 items and 3000 requests, replaced 6 items  
+analyzing sample: 6
+Found 1891 items that appear in 2 subsequences
+Replacing 2 items
+Picked 2 random items
+Replaced 68 with 42
+Replaced 44 with 28
+Test, sample6 now has 100 items and 3000 requests, replaced 2 items  
+analyzing sample: 7
+Found 2083 items that appear in 2 subsequences
+Replacing 5 items
+Picked 5 random items
+Replaced 64 with 0
+Replaced 44 with 2
+Replaced 43 with 49
+Replaced 76 with 70
+Replaced 37 with 96
+Test, sample7 now has 100 items and 3000 requests, replaced 5 items  
+analyzing sample: 8
+Found 2034 items that appear in 2 subsequences
+Replacing 3 items
+Picked 3 random items
+Replaced 54 with 96
+Replaced 64 with 0
+Replaced 95 with 83
+Test, sample8 now has 100 items and 3000 requests, replaced 3 items  
+analyzing sample: 9
+Found 1966 items that appear in 2 subsequences
+Replacing 6 items
+Picked 6 random items
+Replaced 89 with 20
+Replaced 17 with 77
+Replaced 14 with 5
+Replaced 37 with 86
+Replaced 55 with 2
+Replaced 76 with 57
+Test, sample9 now has 100 items and 3000 requests, replaced 6 items  
